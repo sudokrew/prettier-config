@@ -1,0 +1,22 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Default Sudokrew Prettier configuration file.",
+  "main": "prettier.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudokrew/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Sudokrew Solutions, LLC.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudokrew/prettier-config/issues"
+  },
+  "homepage": "https://github.com/sudokrew/prettier-config#readme"
+}
