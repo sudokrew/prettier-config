@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@sudokrew/prettier-config",
   "version": "1.0.0",
   "description": "Default Sudokrew Prettier configuration file.",
   "main": "prettier.config.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sudokrew/prettier-config.git"
+    "url": "git://github.com/sudokrew/prettier-config.git"
   },
   "keywords": [
     "prettier"
